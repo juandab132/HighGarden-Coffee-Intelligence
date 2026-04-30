@@ -3,7 +3,7 @@ pandas
 numpy
 plotly
 scikit-learn
-transformers>=4.30.0
-pyarrow
+transformers==4.38.2
 torch
+pyarrow
 tf-keras
