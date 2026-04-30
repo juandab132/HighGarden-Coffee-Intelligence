@@ -1,9 +1,8 @@
-streamlit>=1.30.0
+streamlit
 pandas
 numpy
 plotly
 scikit-learn
-transformers==4.38.2
+transformers
 torch
 pyarrow
-tf-keras
